@@ -2,6 +2,8 @@
 A list of Emmet snippets.
 
 
-**emmet cheatsheet**
 
-https://docs.emmet.io/cheat-sheet/
+
+## emmet links ##
+
+[emmet cheatsheet]https://docs.emmet.io/cheat-sheet/
